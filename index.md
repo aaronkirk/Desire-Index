@@ -1,37 +1,31 @@
-## Welcome to Eazy Allies Desire Index
+## Welcome to [Easy Allies](https://easyallies.com/) Desire Index
 
-You can use the [Easy Allies](https://github.com/aaronkirk/Desire-Index/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/aaronkirk/Desire-Index/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+1. Resident Evil 2 (Remake)
+2. The Last of Us Part II
+3. Kingdom Hearts III
+4. Sekiro: Shadows Die Twice
+5. Red Dead Redemption 2
+6. Cyberpunk 2077
+7. Spider-Man
+8. Death Stranding
+9. Ghost of Tsushima
+10. Dragon Quest XI
+11. Devil May Cry 5
+12. Control
+13. Super Smash Bros. Ultimate
+14. Dreams
+15. Hitman 2
+16. Forza Horizon 4
+17. Anthem
+18. Halo Infinite
+19. Fallout 76
+20. Shadow of the Tomb Raider
+21. Skull & Bones
+22. Darksiders III
+23. Gears 5
+24. The Elder Scrolls VI
+25. Babylon's Fall
+26. Pokémon: Let's Go, Pikachu! & Pokémon: Let's Go, Eevee!
+27. Team Sonic Racing
+28. Call of Duty: Black Ops 4
+29. Crackdown 3
